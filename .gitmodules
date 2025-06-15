@@ -1,3 +1,6 @@
 [submodule "TaskTracker"]
 	path = TaskTracker
 	url = https://github.com/CoderBrian357NYC/TaskTracker.git
+[submodule "BookApi"]
+	path = BookApi
+	url = https://github.com/CoderBrian357NYC/BookApi.git
